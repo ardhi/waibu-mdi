@@ -1,0 +1,33 @@
+{
+  "name": "waibu-mdi",
+  "version": "1.0.0",
+  "description": "Material Design Icons (MDI) suport for Waibu MPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/waibu-mdi.git"
+  },
+  "keywords": [
+    "mdi",
+    "waibu",
+    "web",
+    "webserver",
+    "bajo",
+    "framework",
+    "fastify",
+    "modular"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/waibu-mdi/issues"
+  },
+  "homepage": "https://github.com/ardhi/waibu-mdi#readme",
+  "dependencies": {
+    "@mdi/font": "^7.4.47"
+  }
+}
