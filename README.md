@@ -1,6 +1,6 @@
 # waibu-mdi
 
-Plugin name: **waibuMdi**, alias: **wbmdi**
+Plugin name: **waibuMdi**, alias: **wmdi**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-mdi) ![NPM Version](https://img.shields.io/npm/v/waibu-mdi)
 

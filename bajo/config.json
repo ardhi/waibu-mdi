@@ -1,4 +1,4 @@
 {
-  "alias": "wbmdi",
+  "alias": "wmdi",
   "dependencies": ["waibu-mpa"]
 }
